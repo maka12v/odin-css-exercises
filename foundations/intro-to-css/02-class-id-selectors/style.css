@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #ff7085;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.telement {
+    font-size: 24px;
+}
+
+#selement {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+
+#felement {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
